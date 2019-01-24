@@ -1,9 +1,9 @@
 form
 {
 margin: 0 auto;
-width: 400px;
+width: 500px;
 padding : 1em;
-border: 1px solid salmon;
+border: 1px double salmon;
 border-radius: 1em;
 }
 form div + div 
@@ -34,7 +34,7 @@ textarea
 }
 .button
 {
-  padding-left: 90px;
+  padding-right: 90px;
 }
 button
 {
@@ -42,5 +42,5 @@ button
 }
 h1
 {
-  font-style: italic
+  font-style: italic;
 }
